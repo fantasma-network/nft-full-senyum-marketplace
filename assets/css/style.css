@@ -18076,7 +18076,7 @@ label:active:after {
   background: radial-gradient(100% 100% at 53.13% 0%, #31e7fa 0%, #4477ff 52.6%, #db74ff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-clip: text;
+  -moz-background-clip: text;
 }
 
 .upcoming_projects th {
